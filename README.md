@@ -6,4 +6,4 @@ Then, simply open the imdb_bert.ipynb with your jupyter notebook.
 
 Due to the long duration that the model takes to train, its weights are saved in the imdb_bert.h5 file. You won't have to wait one hour for the model to finish training ;)
 
-Have fun
+Have fun 
